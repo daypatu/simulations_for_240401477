@@ -6,11 +6,14 @@ In the simulations we estimate the probability of succesfull decoding for a give
 
 The source code is contained in `deconding_simulation.py`. It uses [PyMatching 2](https://github.com/oscarhiggott/PyMatching) library to perform simulations. The source of PyMatching library is contained in `./PyMatching` folder. We added some new functionality to original Pymatching library in order to deal with erasures, see functions `percolate_batch` and `decode_batch_with_erasures`. The first one is used for detecting percolation of erasures for the batch of samples. The second one performs decoding with accounted erasures. It also does it for the batch of samples. The C++ implementation can be found in `./PyMatching/src/pymatching/sparse_blossom/driver/user_graph.pybind.cc` and `./PyMatching/src/pymatching/sparse_blossom/driver/user_graph.cc`.
 
+To clone the repository use the command:
+- `git clone --recurse-submodules https://github.com/daypatu/simulations_for_240401477`
+
 Before installing PyMatching from source make sure that there is no folder `./PyMatching/src/pymatchin/__pycache__`. If it exists, then delete:
 
 - `rm -r ./PyMatching/src/pymatching/__pycache__`
 
-To install PyMatching simply run this command from the folder containing `decoding_simulation.py` and `./PyMatching`:
+To install PyMatching simply run this command from the directory containing `decoding_simulation.py` and `./PyMatching`:
 
 - `pip install ./PyMatching`
 
