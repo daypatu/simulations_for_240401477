@@ -1,0 +1,26 @@
+2024-11-23 13:52:56,979 Start calculations for range=(1.0, 1.4, 0.1) and N=10000
+2024-11-23 13:52:57,002 Graph of size = 12 created
+2024-11-23 13:52:57,002     ers = 0.0069, err = 0.00675
+2024-11-23 13:52:58,108         erasure and error sampling time: 1.105348
+2024-11-23 13:52:59,326         percolation checking time: 1.15
+2024-11-23 13:53:00,163         weights production time: 0.325475
+2024-11-23 13:53:03,933         decoding time: 3.769647
+2024-11-23 13:53:05,259     ers = 0.00759, err = 0.007425
+2024-11-23 13:53:06,366         erasure and error sampling time: 1.105921
+2024-11-23 13:53:07,638         percolation checking time: 1.20
+2024-11-23 13:53:08,473         weights production time: 0.324953
+2024-11-23 13:53:13,032         decoding time: 4.558094
+2024-11-23 13:53:14,363     ers = 0.00828, err = 0.0081
+2024-11-23 13:53:15,471         erasure and error sampling time: 1.106929
+2024-11-23 13:53:16,790         percolation checking time: 1.25
+2024-11-23 13:53:17,630         weights production time: 0.326997
+2024-11-23 13:53:23,011         decoding time: 5.380878
+2024-11-23 13:53:24,346     ers = 0.00897, err = 0.008775
+2024-11-23 13:53:25,452         erasure and error sampling time: 1.105680
+2024-11-23 13:53:26,821         percolation checking time: 1.30
+2024-11-23 13:53:27,664         weights production time: 0.327619
+2024-11-23 13:53:34,128         decoding time: 6.463686
+2024-11-23 13:53:35,517 Graph of size = 16 created
+2024-11-23 13:53:35,517     ers = 0.0069, err = 0.00675
+2024-11-23 13:53:38,060         erasure and error sampling time: 2.542542
+2024-11-23 13:53:43,176         percolation checking time: 4.71

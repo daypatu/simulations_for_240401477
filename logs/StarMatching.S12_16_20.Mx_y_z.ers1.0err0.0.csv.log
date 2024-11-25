@@ -1,0 +1,154 @@
+2024-11-23 13:54:45,894 Start calculations for range=(0.01, 0.09, 0.01) and N=1000
+2024-11-23 13:54:45,917 Graph of size = 12 created
+2024-11-23 13:54:45,917     ers = 0.01, err = 0.0
+2024-11-23 13:54:46,030         erasure and error sampling time: 0.111843
+2024-11-23 13:54:46,236         percolation checking time: 0.13
+2024-11-23 13:54:46,237     ers = 0.02, err = 0.0
+2024-11-23 13:54:46,346         erasure and error sampling time: 0.108933
+2024-11-23 13:54:46,619         percolation checking time: 0.20
+2024-11-23 13:54:46,620     ers = 0.03, err = 0.0
+2024-11-23 13:54:46,731         erasure and error sampling time: 0.110988
+2024-11-23 13:54:47,069         percolation checking time: 0.27
+2024-11-23 13:54:47,070     ers = 0.04, err = 0.0
+2024-11-23 13:54:47,183         erasure and error sampling time: 0.112121
+2024-11-23 13:54:47,613         percolation checking time: 0.36
+2024-11-23 13:54:47,614     ers = 0.05, err = 0.0
+2024-11-23 13:54:47,726         erasure and error sampling time: 0.111340
+2024-11-23 13:54:48,256         percolation checking time: 0.46
+2024-11-23 13:54:48,257     ers = 0.06, err = 0.0
+2024-11-23 13:54:48,369         erasure and error sampling time: 0.111285
+2024-11-23 13:54:49,068         percolation checking time: 0.63
+2024-11-23 13:54:49,068     ers = 0.07, err = 0.0
+2024-11-23 13:54:49,181         erasure and error sampling time: 0.111329
+2024-11-23 13:54:50,107         percolation checking time: 0.85
+2024-11-23 13:54:50,108     ers = 0.08, err = 0.0
+2024-11-23 13:54:50,220         erasure and error sampling time: 0.111196
+2024-11-23 13:54:51,020         percolation checking time: 0.73
+2024-11-23 13:54:51,071 Graph of size = 16 created
+2024-11-23 13:54:51,071     ers = 0.01, err = 0.0
+2024-11-23 13:54:51,331         erasure and error sampling time: 0.258777
+2024-11-23 13:54:52,303         percolation checking time: 0.55
+2024-11-23 13:54:52,305     ers = 0.02, err = 0.0
+2024-11-23 13:54:52,560         erasure and error sampling time: 0.254359
+2024-11-23 13:54:53,699         percolation checking time: 0.72
+2024-11-23 13:54:53,700     ers = 0.03, err = 0.0
+2024-11-23 13:54:53,956         erasure and error sampling time: 0.253848
+2024-11-23 13:54:55,271         percolation checking time: 0.89
+2024-11-23 13:54:55,272     ers = 0.04, err = 0.0
+2024-11-23 13:54:55,530         erasure and error sampling time: 0.256611
+2024-11-23 13:54:57,038         percolation checking time: 1.09
+2024-11-23 13:54:57,040     ers = 0.05, err = 0.0
+2024-11-23 13:54:57,295         erasure and error sampling time: 0.254289
+2024-11-23 13:54:59,020         percolation checking time: 1.31
+2024-11-23 13:54:59,021     ers = 0.06, err = 0.0
+2024-11-23 13:54:59,275         erasure and error sampling time: 0.252929
+2024-11-23 13:55:01,394         percolation checking time: 1.70
+2024-11-23 13:55:01,395     ers = 0.07, err = 0.0
+2024-11-23 13:55:01,651         erasure and error sampling time: 0.254341
+2024-11-23 13:55:04,377         percolation checking time: 2.31
+2024-11-23 13:55:04,378     ers = 0.08, err = 0.0
+2024-11-23 13:55:04,632         erasure and error sampling time: 0.252766
+2024-11-23 13:55:06,880         percolation checking time: 1.83
+2024-11-23 13:55:07,010 Graph of size = 20 created
+2024-11-23 13:55:07,010     ers = 0.01, err = 0.0
+2024-11-23 13:55:07,515         erasure and error sampling time: 0.503343
+2024-11-23 13:55:11,008         percolation checking time: 1.28
+2024-11-23 13:55:11,010     ers = 0.02, err = 0.0
+2024-11-23 13:55:11,508         erasure and error sampling time: 0.496038
+2024-11-23 13:55:15,014         percolation checking time: 1.56
+2024-11-23 13:55:15,015     ers = 0.03, err = 0.0
+2024-11-23 13:55:15,508         erasure and error sampling time: 0.489806
+2024-11-23 13:55:19,231         percolation checking time: 1.80
+2024-11-23 13:55:19,232     ers = 0.04, err = 0.0
+2024-11-23 13:55:19,724         erasure and error sampling time: 0.489761
+2024-11-23 13:55:23,770         percolation checking time: 2.12
+2024-11-23 13:55:23,772     ers = 0.05, err = 0.0
+2024-11-23 13:55:24,277         erasure and error sampling time: 0.502146
+2024-11-23 13:55:28,749         percolation checking time: 2.54
+2024-11-23 13:55:28,751     ers = 0.06, err = 0.0
+2024-11-23 13:55:29,243         erasure and error sampling time: 0.489768
+2024-11-23 13:55:34,339         percolation checking time: 3.18
+2024-11-23 13:55:34,341     ers = 0.07, err = 0.0
+2024-11-23 13:55:34,833         erasure and error sampling time: 0.489546
+2024-11-23 13:55:41,144         percolation checking time: 4.39
+2024-11-23 13:55:41,146     ers = 0.08, err = 0.0
+2024-11-23 13:55:41,638         erasure and error sampling time: 0.489580
+2024-11-23 13:55:46,915         percolation checking time: 3.35
+2024-11-23 13:55:46,917 Save data
+2024-11-23 14:10:03,947 Start calculations for range=(0.01, 0.09, 0.01) and N=1000
+2024-11-23 14:10:03,971 Graph of size = 12 created
+2024-11-23 14:10:03,971     ers = 0.01, err = 0.0
+2024-11-23 14:10:04,083         erasure and error sampling time: 0.112008
+2024-11-23 14:10:04,287         percolation checking time: 0.13
+2024-11-23 14:10:04,288     ers = 0.02, err = 0.0
+2024-11-23 14:10:04,399         erasure and error sampling time: 0.110399
+2024-11-23 14:10:04,670         percolation checking time: 0.20
+2024-11-23 14:10:04,670     ers = 0.03, err = 0.0
+2024-11-23 14:10:04,780         erasure and error sampling time: 0.108912
+2024-11-23 14:10:05,124         percolation checking time: 0.27
+2024-11-23 14:10:05,124     ers = 0.04, err = 0.0
+2024-11-23 14:10:05,235         erasure and error sampling time: 0.109983
+2024-11-23 14:10:05,663         percolation checking time: 0.36
+2024-11-23 14:10:05,663     ers = 0.05, err = 0.0
+2024-11-23 14:10:05,773         erasure and error sampling time: 0.109020
+2024-11-23 14:10:06,303         percolation checking time: 0.46
+2024-11-23 14:10:06,304     ers = 0.06, err = 0.0
+2024-11-23 14:10:06,417         erasure and error sampling time: 0.112094
+2024-11-23 14:10:07,120         percolation checking time: 0.63
+2024-11-23 14:10:07,121     ers = 0.07, err = 0.0
+2024-11-23 14:10:07,231         erasure and error sampling time: 0.109985
+2024-11-23 14:10:08,161         percolation checking time: 0.86
+2024-11-23 14:10:08,161     ers = 0.08, err = 0.0
+2024-11-23 14:10:08,271         erasure and error sampling time: 0.108723
+2024-11-23 14:10:09,067         percolation checking time: 0.73
+2024-11-23 14:10:09,118 Graph of size = 16 created
+2024-11-23 14:10:09,118     ers = 0.01, err = 0.0
+2024-11-23 14:10:09,378         erasure and error sampling time: 0.259082
+2024-11-23 14:10:10,296         percolation checking time: 0.52
+2024-11-23 14:10:10,297     ers = 0.02, err = 0.0
+2024-11-23 14:10:10,552         erasure and error sampling time: 0.254081
+2024-11-23 14:10:11,661         percolation checking time: 0.71
+2024-11-23 14:10:11,662     ers = 0.03, err = 0.0
+2024-11-23 14:10:11,916         erasure and error sampling time: 0.252614
+2024-11-23 14:10:13,187         percolation checking time: 0.88
+2024-11-23 14:10:13,188     ers = 0.04, err = 0.0
+2024-11-23 14:10:13,443         erasure and error sampling time: 0.253080
+2024-11-23 14:10:14,934         percolation checking time: 1.09
+2024-11-23 14:10:14,935     ers = 0.05, err = 0.0
+2024-11-23 14:10:15,190         erasure and error sampling time: 0.253013
+2024-11-23 14:10:16,904         percolation checking time: 1.31
+2024-11-23 14:10:16,905     ers = 0.06, err = 0.0
+2024-11-23 14:10:17,160         erasure and error sampling time: 0.252805
+2024-11-23 14:10:19,243         percolation checking time: 1.69
+2024-11-23 14:10:19,244     ers = 0.07, err = 0.0
+2024-11-23 14:10:19,499         erasure and error sampling time: 0.253348
+2024-11-23 14:10:22,194         percolation checking time: 2.30
+2024-11-23 14:10:22,195     ers = 0.08, err = 0.0
+2024-11-23 14:10:22,449         erasure and error sampling time: 0.252688
+2024-11-23 14:10:24,671         percolation checking time: 1.82
+2024-11-23 14:10:24,801 Graph of size = 20 created
+2024-11-23 14:10:24,801     ers = 0.01, err = 0.0
+2024-11-23 14:10:25,305         erasure and error sampling time: 0.502506
+2024-11-23 14:10:28,783         percolation checking time: 1.28
+2024-11-23 14:10:28,785     ers = 0.02, err = 0.0
+2024-11-23 14:10:29,285         erasure and error sampling time: 0.497175
+2024-11-23 14:10:32,847         percolation checking time: 1.56
+2024-11-23 14:10:32,849     ers = 0.03, err = 0.0
+2024-11-23 14:10:33,348         erasure and error sampling time: 0.495913
+2024-11-23 14:10:37,080         percolation checking time: 1.82
+2024-11-23 14:10:37,082     ers = 0.04, err = 0.0
+2024-11-23 14:10:37,580         erasure and error sampling time: 0.496018
+2024-11-23 14:10:41,667         percolation checking time: 2.12
+2024-11-23 14:10:41,669     ers = 0.05, err = 0.0
+2024-11-23 14:10:42,168         erasure and error sampling time: 0.496430
+2024-11-23 14:10:46,631         percolation checking time: 2.56
+2024-11-23 14:10:46,633     ers = 0.06, err = 0.0
+2024-11-23 14:10:47,132         erasure and error sampling time: 0.496003
+2024-11-23 14:10:52,285         percolation checking time: 3.16
+2024-11-23 14:10:52,287     ers = 0.07, err = 0.0
+2024-11-23 14:10:52,786         erasure and error sampling time: 0.496315
+2024-11-23 14:10:59,116         percolation checking time: 4.42
+2024-11-23 14:10:59,118     ers = 0.08, err = 0.0
+2024-11-23 14:10:59,617         erasure and error sampling time: 0.496419
+2024-11-23 14:11:04,917         percolation checking time: 3.38
+2024-11-23 14:11:04,919 Save data
