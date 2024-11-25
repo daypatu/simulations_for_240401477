@@ -1,0 +1,3 @@
+[submodule "PyMatching"]
+	path = PyMatching
+	url = https://github.com/daypatu/ers_pymatching
